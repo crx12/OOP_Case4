@@ -1,0 +1,15 @@
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.exe
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.deps.json
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.runtimeconfig.json
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.runtimeconfig.dev.json
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.dll
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\ref\OOP_CASE4.dll
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\bin\Debug\net5.0\OOP_CASE4.pdb
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.AssemblyInfoInputs.cache
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.AssemblyInfo.cs
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.csproj.CoreCompileInputs.cache
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.dll
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\ref\OOP_CASE4.dll
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.pdb
+C:\Users\Frans Adrian\source\repos\OOP_CASE4\OOP_CASE4\obj\Debug\net5.0\OOP_CASE4.genruntimeconfig.cache
